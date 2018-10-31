@@ -28,4 +28,5 @@ Step 2. Add the dependency
 Modules:
 
 • `ContextUtils` - contains helper methods for global tasks like `showToast(...)`, `View.fadeIn()`
+
 • `ViewUtils` - contains helper methods for anything that extends `View`
