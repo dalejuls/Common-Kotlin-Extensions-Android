@@ -1,3 +1,6 @@
+[![](https://jitpack.io/v/dalejuls/Common-Kotlin-Extensions-Android.svg)](https://jitpack.io/#dalejuls/Common-Kotlin-Extensions-Android)
+
+
 # Common-Kotlin-Extensions-Android
 Android library for common Kotlin utilities and extensions
 
@@ -15,5 +18,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.dalejuls:Common-Kotlin-Extensions-Android:Tag'
+	        implementation 'com.github.dalejuls:Common-Kotlin-Extensions-Android:1.0.01'
 	}
